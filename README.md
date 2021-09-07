@@ -1,9 +1,7 @@
-# KafkaJavaConsumer
+# Kafka Java Consumer
 
 
-[![Build status](https://ci.appveyor.com/api/projects/status/tyenw4ffs00j4sav/branch/dev?svg=true)](https://ci.appveyor.com/project/mohsenTalal/security-openidconnect/branch/master)
-
-###Requirement
+### Requirement
 - maven
 - java 1.8
 
